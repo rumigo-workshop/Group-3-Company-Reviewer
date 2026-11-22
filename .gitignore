@@ -1,4 +1,2 @@
-.env
-packages/web/node_modules
-*venv
-*__pycache__
+node_modules
+dist
